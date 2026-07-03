@@ -1,4 +1,4 @@
-# 
+# Ligero JetBrains PyCharm herramientas para Mac OS | Avanzado JetBrains PyCharm herramientas para PC Windows. Con herramientas de refactorización y construcciones multiplataforma — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
